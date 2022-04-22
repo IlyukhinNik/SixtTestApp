@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  SixtTest
+
+  Created by Nikita Ilyukhin on 18.04.2022.
+  
+*/
+
+//Tabbar
+"tab.list" = "Список";
+"tab.map" = "Мапа";
+
+//Error
+"button.reload" = "Повторити";
+"button.showDetails" = "Детальніше";
+
+//CarDetail
+"detail.transmission" = "Трансмісія";
+"detail.fuel" = "Тип палива";
+"detail.innerCleanliness" = "Чистота салону";
+"detail.additionalInfo" = "Додаткова інформація";
+
+//Transmission
+"transmission.manual" = "Механічна";
+"transmission.automatic" = "Автоматична";
+
+//FuelType
+"fuelType.diesel" = "Дизель";
+"fuelType.petrol" = "Бензин";
+"fuelType.electric" = "Електричний";
+
+//InnerCleanliness
+"innerCleanliness.clean" = "Чисто";
+"innerCleanliness.veryClean" = "Дуже чисто";
+"innerCleanliness.regular" = "Нормальна";

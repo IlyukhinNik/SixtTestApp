@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  SixtTest
+
+  Created by Nikita Ilyukhin on 18.04.2022.
+  
+*/
+
+//Tabbar
+"tab.list" = "List";
+"tab.map" = "Map";
+
+//Error
+"button.reload" = "Reload";
+"button.showDetails" = "Show details";
+
+//CarDetail
+"detail.transmission" = "Transmission";
+"detail.fuel:" = "Fuel";
+"detail.innerCleanliness" = "Inner cleanliness";
+"detail.additionalInfo" = "Additional info";
+
+//Transmission
+"transmission.manual" = "Manual";
+"transmission.automatic" = "Automatic";
+
+//FuelType
+"fuelType.diesel" = "Diesel";
+"fuelType.petrol" = "Petrol";
+"fuelType.electric" = "Electric";
+
+//InnerCleanliness
+"innerCleanliness.clean" = "Clean";
+"innerCleanliness.veryClean" = "Very clean";
+"innerCleanliness.regular" = "Regular";

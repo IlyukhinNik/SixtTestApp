@@ -1,0 +1,6 @@
+"networkError.objectMapping" = "Не розкодувати дані в об'єкт.";
+"networkError.encodableMapping" = "Не вдалося закодувати об'єкт у дані.";
+"networkError.statusCode" = "Код запиту не входить у вказаний діапазон.";
+"networkError.requestMapping" = "Не вдалося перетворити Endpoint у URLRequest.";
+"networkError.parameterEncoding" = "Не вдалося закодувати параметри для URLRequest %@";
+"networkError.noResponse" = "Немає данних.";

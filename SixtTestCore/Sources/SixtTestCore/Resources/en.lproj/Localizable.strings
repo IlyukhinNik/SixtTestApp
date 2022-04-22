@@ -1,0 +1,6 @@
+"networkError.objectMapping" = "Failed to map data to a Decodable object.";
+"networkError.encodableMapping" = "Failed to encode Encodable object into data.";
+"networkError.statusCode" = "Status code didn't fall within the given range.";
+"networkError.requestMapping" = "Failed to map Endpoint to a URLRequest.";
+"networkError.parameterEncoding" = "Failed to encode parameters for URLRequest. %@";
+"networkError.noResponse" = "Wrong data of response.";

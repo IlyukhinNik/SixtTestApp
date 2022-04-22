@@ -1,0 +1,18 @@
+{
+"id": "WMWSU31020T077252",
+"modelIdentifier": "mini",
+"modelName": "MINI",
+"name": "Patty",
+"make": "BMW",
+"group": "MINI",
+"color": "midnight_black",
+"series": "MINI",
+"fuelType": "P",
+"fuelLevel": 0,
+"transmission": "M",
+"licensePlate": "M-VO0127",
+"latitude": 48.042802,
+"longitude": 11.510077,
+"innerCleanliness": "VERY_CLEAN",
+"carImageUrl": "https://cdn.sixt.io/codingtask/images/mini.png"
+}
