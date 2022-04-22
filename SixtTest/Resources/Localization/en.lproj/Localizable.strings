@@ -16,7 +16,7 @@
 
 //CarDetail
 "detail.transmission" = "Transmission";
-"detail.fuel:" = "Fuel";
+"detail.fuel" = "Fuel";
 "detail.innerCleanliness" = "Inner cleanliness";
 "detail.additionalInfo" = "Additional info";
 
